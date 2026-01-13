@@ -1,4 +1,4 @@
-const API_BASE_URL = window.API_BASE_URL || 'http://ai-demo-pnm2.vercel.app/api';
+const API_BASE_URL = window.API_BASE_URL || 'https://ai-demo-pnm2.vercel.app/api';
 
 /**
  * 流式翻译 API (SSE over fetch)
